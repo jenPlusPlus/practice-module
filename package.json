@@ -1,0 +1,21 @@
+{
+  "name": "@jenwoodson/practice-module",
+  "version": "1.0.0",
+  "description": "practice creating node module",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha index.js"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "Jen Woodson",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
